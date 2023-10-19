@@ -8,10 +8,6 @@ A step-by-step guide on resolving CORS (Cross-Origin Resource Sharing) errors in
 - [Prerequisites](#prerequisites)
 - [Instructions](#instructions)
   - [Enable CORS in .htaccess](#enable-cors-in-htaccess)
-  - [Configure CodeIgniter](#configure-codeigniter)
-  - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
