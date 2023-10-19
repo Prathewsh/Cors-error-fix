@@ -30,11 +30,9 @@ CORS (Cross-Origin Resource Sharing) errors occur when a web application tries t
 
 ### Configure CORS in controller
 
-Optionally, you can configure CORS on a per-controller basis in CodeIgniter. To do this, create a custom MY_Controller.php in your application/core directory. Ensure that your other controllers extend MY_Controller.
+1. Optionally, you can configure CORS on a per-controller basis in CodeIgniter. To do this, create a custom MY_Controller.php in your application/core directory. Ensure that your other controllers extend MY_Controller.
 
 Here's an example of a custom MY_Controller.php:
-
-
 
 <?php
 class MY_Controller extends CI_Controller {
