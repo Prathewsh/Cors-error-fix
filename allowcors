@@ -1,0 +1,6 @@
+# Enable CORS
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Methods "POST, GET, OPTIONS, PUT, DELETE"
+Header set Access-Control-Max-Age "1000"
+Header set Access-Control-Allow-Headers "Content-Type, Content-Range, Content-Disposition, Content-Description"
+Header set Access-Control-Allow-Credentials true
