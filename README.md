@@ -28,4 +28,4 @@ CORS (Cross-Origin Resource Sharing) errors occur when a web application tries t
 
 1. Open your `.htaccess` file in your CodeIgniter project.
 
-2. Add the following CORS rules at the top of your `.htaccess` file to enable cross-origin requests:
+2. Add the CORS rules given in allowcors at the top of your `.htaccess` file to enable cross-origin requests:
